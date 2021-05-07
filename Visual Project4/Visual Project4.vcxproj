@@ -22,6 +22,7 @@
     <ClCompile Include="예제5-2.cpp" />
     <ClCompile Include="예제5-3.cpp" />
     <ClCompile Include="예제504.cpp" />
+    <ClCompile Include="예제6-1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
